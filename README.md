@@ -139,6 +139,7 @@ The analysis confirms that BMI, blood pressure, age, and heart rate are the stro
 ## Author & Contact
 
 | Field | Info |
+|-------|------|
 | Name | KRISHNA |
 | LinkedIn | https://www.linkedin.com/in/krishna-krishna-26a106231/ | 
 | GitHub | https://github.com/ |
